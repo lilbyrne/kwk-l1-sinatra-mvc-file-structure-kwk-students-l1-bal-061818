@@ -1,3 +1,5 @@
 class Dog 
-  # Replace with Dog clas
+  @name = name 
+  @breed = breed 
+  @age = age 
 end
